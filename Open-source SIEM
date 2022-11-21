@@ -1,0 +1,49 @@
+Top ten list of Open source SIEM 
+what is a SIEM?
+Security information and event management, SIEM for short, is a solution that helps organizations detect,
+analyze, and respond to security threats before they harm business operations.
+SIEM, pronounced “sim,” combines both security information management (SIM)
+and security event management (SEM) into one security management system.
+SIEM technology collects event log data from a range of sources, identifies 
+activity that deviates from the norm with real-time analysis, and takes appropriate action.
+In short, SIEM gives organizations visibility into activity within their network
+so they can respond swiftly to potential cyberattacks and meet compliance requirements.
+In the past decade, SIEM technology has evolved to make threat detection 
+and incident response smarter and faster with artificial intelligence.
+
+Benefits of SIEM 
+SIEM tools offer many benefits that can help strengthen an organization’s overall security posture, including:
+
+• A central view of potential threats
+• Real-time threat identification and response
+• Advanced threat intelligence
+• Regulatory compliance auditing and reporting
+• Greater transparency monitoring users, applications, and devices
+
+How Does SIEM Work?
+SIEM software works by collecting log and event data produced from applications, devices
+networks, infrastructure, and systems to draw analysis and provide a holistic 
+view of an organization’s information technology (IT).
+SIEM solutions can reside either in on-premises or cloud environments. 
+Analyzing all of the data in real-time, SIEM solutions use rules and statistical 
+correlations to drive actional insight during forensic investigations. SIEM technology
+examines all data, sorting threat activity according to its risk level to help security 
+teams identify malicious actors and mitigate cyberattacks quickly.
+
+Now List of a open source SIEM
+1. ELK - https://www.elastic.co/what-is/elk-stack
+2. Wazuh - https://wazuh.com/?https%3A%2F%2Fwazuh_com%3Futm_source=google&utm_medium=cpc&utm_campaign=SRCHWWOpen%20Source&utm_id=1&gclid=Cj0KCQiA4OybBhCzARIsAIcfn9kPDkiKd4gIFTdCcvelmLEnbLQnvGYg8tN24qIiEutWIAmpp6zSMpoaAg1gEALw_wcB
+3. Graylog - https://docs.graylog.org/docs/ubuntu
+4. OSSIM - https://cybersecurity.att.com/products/ossim
+5. OSSEC - https://www.ossec.net/download-ossec/
+6. Security Onion - https://securityonionsolutions.com/
+7. SIEMonster - https://siemonster.com/
+8. Splunk Free - https://www.splunk.com/en_us/download.html 
+9. Apache Moon - https://metron.apache.org/
+10. SIEMonster - https://go.siemonster.com/Community-Edition
+Reference - 
+https://logit.io/blog/post/the-top-14-free-and-open-source-siem-tools-for-2021/
+https://www.microsoft.com/en-us/security/business/security-101/what-is-siem
+https://www.logpoint.com/en/understand/what-is-siem/
+https://www.linkedin.com/pulse/top-10-open-source-siem-tools-kelsey-taylor?trk=pulse-article_more-articles_related-content-card
+https://kalhara-sampath.medium.com/top-free-security-information-and-event-management-siem-softwares-20c6d8f32a6f
